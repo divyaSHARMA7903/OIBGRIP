@@ -1,2 +1,0 @@
-# OIBGRIP
-Web Development Internship
